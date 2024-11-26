@@ -1,4 +1,4 @@
-module trialLIFO ( 
+module LIFO ( 
 input rst, // Reset signal to reset the stack 
 input enable, // Enable signal to trigger stack operations 
 input push, // Push signal to add data to the stack 
